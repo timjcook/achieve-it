@@ -2,7 +2,7 @@
 
 /* @var $this yii\web\View */
 
-$this->title = 'My Yii Application';
+$this->title = 'Achieve-IT Backend Dashboard';
 ?>
 <div class="site-index">
 
